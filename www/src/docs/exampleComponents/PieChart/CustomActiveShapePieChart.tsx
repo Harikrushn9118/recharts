@@ -1,5 +1,4 @@
-import { Pie, PieChart, Sector, SectorProps, Tooltip } from 'recharts';
-import { TooltipIndex } from 'recharts/types/state/tooltipSlice';
+import { Pie, PieChart, Sector, SectorProps, Tooltip, TooltipIndex } from 'recharts';
 
 type Coordinate = {
   x: number;
